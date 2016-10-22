@@ -7,4 +7,4 @@ OS X:
 
 To use, open Extras->Simple MIDI Help and follow the instructions.
 
-![Simple MIDI Example](./SimpleMIDI.png)
+![Simple MIDI Example](./SimpleMIDI.PNG)
