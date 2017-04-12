@@ -1,0 +1,36 @@
+{
+	"author" : "Michael Hetrick",
+	"authors" : [  ],
+	"description" : "Simple MIDI is a collection of utilities that add quick MIDI CC and note mappings to your patches.",
+	"displayname" : "",
+	"extends" : "",
+	"extensible" : 0,
+	"homepatcher" : "Simple MIDI Help.maxpat",
+	"max_version_max" : "none",
+	"max_version_min" : "7.3.0",
+	"name" : "Simple MIDI",
+	"os" : 	{
+		"macintosh" : 		{
+			"platform" : [ "ia32", "x64" ],
+			"min_version" : "10.7.x"
+		}
+,
+		"windows" : 		{
+			"platform" : [ "ia32", "x64" ],
+			"min_version" : "7"
+		}
+
+	}
+,
+	"package_extra" : 	{
+
+	}
+,
+	"tags" : [ "midi", "clippings"],
+	"version" : "1.0.0",
+	"website" : "http://www.mhetrick.com",
+	"filelist" : 	{
+		"clippings" : [ "CC Buttons.maxpat", "CC Dials.maxpat", "CC Sliders.maxpat", "Note Buttons.maxpat"],
+		"extras" : [ "Simple MIDI Help.maxpat" ]
+	}
+}
