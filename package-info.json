@@ -1,8 +1,8 @@
 {
 	"author" : "Michael Hetrick",
 	"authors" : [  ],
-	"description" : "Simple MIDI is a collection of utilities that add quick MIDI CC and note mappings to your patches.",
-	"displayname" : "",
+	"description" : "Simple MIDI is a collection of utilities that add quick MIDI CC and note mappings to your patches. These easy-to-use clippings have quick MIDI Learn controls that observe CC and Channel. The associated MIDI mappings are then saved with your patch.",
+	"displayname" : "Simple MIDI",
 	"extends" : "",
 	"extensible" : 0,
 	"homepatcher" : "Simple MIDI Help.maxpat",
